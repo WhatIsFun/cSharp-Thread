@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Threads\bin\Debug\net6.0\cSharp-Threads.exe
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Threads\bin\Debug\net6.0\cSharp-Threads.deps.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Threads\bin\Debug\net6.0\cSharp-Threads.runtimeconfig.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Threads\bin\Debug\net6.0\cSharp-Threads.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Threads\bin\Debug\net6.0\cSharp-Threads.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Threads\obj\Debug\net6.0\cSharp-Threads.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Threads\obj\Debug\net6.0\cSharp-Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Threads\obj\Debug\net6.0\cSharp-Threads.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Threads\obj\Debug\net6.0\cSharp-Threads.AssemblyInfo.cs
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Threads\obj\Debug\net6.0\cSharp-Threads.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Threads\obj\Debug\net6.0\cSharp-Threads.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Threads\obj\Debug\net6.0\refint\cSharp-Threads.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Threads\obj\Debug\net6.0\cSharp-Threads.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Threads\obj\Debug\net6.0\cSharp-Threads.genruntimeconfig.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Threads\obj\Debug\net6.0\ref\cSharp-Threads.dll
